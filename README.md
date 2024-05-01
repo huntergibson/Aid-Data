@@ -5,7 +5,7 @@
 
 [Tableau Public Link](https://public.tableau.com/shared/Y4KY24QPM?:display_count=n&:origin=viz_share_link) 
 
-Simple description
+The project involved analyzing and visualizing global catastrophic events to better understand the vulnerability of different countries to natural disasters. The main goal was to effectively allocate aid by identifying countries most in need. This analysis was facilitated through the creation of three interactive dashboards focusing on disaster overview, economic impact, and human impact. Each dashboard provided visualizations such as bar charts, line charts, and maps to depict data like the frequency of disasters, economic damages, and human casualties across various countries. This interactive platform enabled a deeper analysis of the effects of natural disasters, thereby aiding in targeted and effective resource allocation for humanitarian relief efforts.
 
 ---
 
@@ -33,8 +33,4 @@ Working with Excel and Tableau to analyze aid data has provided me with invaluab
 7. Feel free to analyze the data and glean insights from the visualization presented.
 
 8. If desired, you can also share the link with others to allow them to view the Tableau visualization as well.
-
-
-## Change log
-04/30/2024: developer -- uploaded to github
 
